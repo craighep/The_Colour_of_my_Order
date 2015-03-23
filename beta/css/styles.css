@@ -85,7 +85,15 @@ body.blue {
 }
 #logo a {
     display: inline-block;
-    padding: 4px;
+    margin-right: -10px;
+}
+
+#logo a img {
+    width: 50px;
+}
+
+#logo strong {
+    font-size: 3em;
 }
 /*Logo End Here*/
 

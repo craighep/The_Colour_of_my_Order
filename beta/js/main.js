@@ -68,6 +68,7 @@ function getRandom() {
 	var hex = '#'+(Math.random()*0xFFFFFF<<0).toString(16);
 	cw.color(hex);
 	var rgb = hexToRgb(hex);
+	cost = 0;
     updateTable(rgb.r, rgb.g, rgb.b);
 }
 
