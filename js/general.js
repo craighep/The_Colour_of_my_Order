@@ -8,7 +8,6 @@ $(window).load(function() {
 
 
 //enter the count down date using the format year, month, day, time:time
-$(".count-down").ccountdown(2015,04,07,'17:00');
 
 // Utilizing the Modernizr object created to implement placeholder functionality
 function hasPlaceholderSupport() {
@@ -53,23 +52,4 @@ $(document).ready(function() {
 
   $("a.tool-tip").tooltip();   
 
-});
-
-// Contact Form Mail Functionality
-$(document).ready(function() {
-  $(".validate").validate();
-  $(document).on('submit', '.contact-form', function() {
-    $.ajax({
-      url : 'contact.php',
-      type : 'post',
-      data : $(this).serialize(),
-      success : function(data) {
-       $('.form-respond').html("<div class='content-message success'><h2>Email Sent Successfully Your message has been submitted.</h2></div>");
-     },
-     error : function(xhr, err) {
-      $('.form-respond').html("<div class='content-message'><h2>Error sending Try again later.</h2></div>");
-    }
-  });
-    return false;
-  });
 });
