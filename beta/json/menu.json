@@ -1,0 +1,520 @@
+{
+  "menu_items": [{
+    "id": 1,
+    "name": "Special combination for 2",
+    "price": 5.8
+    },{
+    "id": 2,
+    "name": "Sesame Prawn on Toasts (6)",
+    "price": 3.3
+    },{
+    "id": 3,
+    "name": "Wok Fried Pork Dumplings (6)",
+    "price": 4
+    },{
+    "id": 4,
+    "name": "Siu Mai (6)",
+    "price": 4
+    },{
+    "id": 5,
+    "name": "Deep Fried Onion Rings (10)",
+    "price": 2
+    },{
+    "id": 6,
+    "name": "Vegetable Spring Rolls (4)",
+    "price": 2
+    },{
+    "id": 7,
+    "name": "Crispy Meat Spring Rolls (4)",
+    "price": 3
+    },{
+    "id": 8,
+    "name": "Mixed Meat Pancake Rolls (1)",
+    "price": 1.7
+    },{
+    "id": 9,
+    "name": "Crispy Seaweed",
+    "price": 3.2
+    },{
+    "id": 10,
+    "name": "Curry Samosas (10)",
+    "price": 2.2
+    },{
+    "id": 11,
+    "name": "Crispy Fried Won Ton (10)",
+    "price": 3.7
+    },{
+    "id": 12,
+    "name": "Butterfly King Prawn (6)",
+    "price": 3.8
+    },{
+    "id": 13,
+    "name": "Satay Chicken on Skewers (5)",
+    "price": 4.5
+    },{
+    "id": 14,
+    "name": "Crispy Aromatic Duck (1/4)",
+    "price": 7.5
+    },{
+    "id": 15,
+    "name": "Chicken Wings in Thai Sweet Chilli Sauce",
+    "price": 3.8
+    },{
+    "id": 16,
+    "name": "Chicken Wings in Honey Sauce",
+    "price": 3.8
+    },{
+    "id": 17,
+    "name": "Dry Chicken Wings",
+    "price": 3.8
+    },{
+    "id": 18,
+    "name": "Chicken BBQ Sauce",
+    "price": 3.8
+    },{
+    "id": 19,
+    "name": "Salt and Pepper Chicken Wings",
+    "price": 3.8
+    },{
+    "id": 20,
+    "name": "Salt and Pepper King Prawn",
+    "price": 5.8
+    },{
+    "id": 21,
+    "name": "Salt and Pepper Squid",
+    "price": 5.8
+    },{
+    "id": 22,
+    "name": "Salt and Pepper Chips",
+    "price": 2.5
+    },{
+    "id": 23,
+    "name": "Salt and Pepper Spare Ribs",
+    "price": 5.8
+    },{
+    "id": 24,
+    "name": "Salt and Pepper Chicken Piece",
+    "price": 5.3
+    },{
+    "id": 25,
+    "name": "Barbecued Spare Ribs",
+    "price": 5.8
+    },{
+    "id": 26,
+    "name": "Dry Spare Ribs",
+    "price": 5.8
+    },{
+    "id": 27,
+    "name": "Spare Ribs Peking Style",
+    "price": 5.8
+    },{
+    "id": 28,
+    "name": "Sweet and Sour Spare Ribs",
+    "price": 5.8
+    },{
+    "id": 29,
+    "name": "Spare Ribs in OK Sauce",
+    "price": 5.8
+    },{
+    "id": 30,
+    "name": "Spare Ribs in Honey Sauce",
+    "price": 5.8
+    },{
+    "id": 31,
+    "name": "Hot and Sour Soup with Meat",
+    "price": 2.6
+    },{
+    "id": 32,
+    "name": "Vegetable Hot and Sour Soup",
+    "price": 2.2
+    },{
+    "id": 33,
+    "name": "Chicken and Sweet Corn Soup",
+    "price": 2
+    },{
+    "id": 34,
+    "name": "Crab Meat and Sweet Corn Soup",
+    "price": 2
+    },{
+    "id": 35,
+    "name": "Chicken and noodles Soup",
+    "price": 2
+    },{
+    "id": 36,
+    "name": "Won Top Soup",
+    "price": 2.6
+    },{
+    "id": 37,
+    "name": "Double Happiness",
+    "price": 6.5
+    },{
+    "id": 38,
+    "name": "Double Luckiness",
+    "price": 6.5
+    },{
+    "id": 39,
+    "name": "Crispy Duck with Fried Rice",
+    "price": 6.8
+    },{
+    "id": 40,
+    "name": "Peking Pork Chop with Fried Rice",
+    "price": 6
+    },{
+    "id": 41,
+    "name": "Chicken in Lemon Sauce",
+    "price": 5
+    },{
+    "id": 42,
+    "name": "Chicken in Orange Sauce",
+    "price": 5
+    },{
+    "id": 43,
+    "name": "Chicken in Plum Sauce",
+    "price": 5
+    },{
+    "id": 44,
+    "name": "King Prawn in Lemon Sauce",
+    "price": 6
+    },{
+    "id": 45,
+    "name": "King Prawn in Orange Sauce",
+    "price": 6
+    },{
+    "id": 46,
+    "name": "Crispy Shredded Chicken in Sweet Chilli Sauce",
+    "price": 5.3
+    },{
+    "id": 47,
+    "name": "Crispy Shredded Beef in Sweet Chilli Sauce",
+    "price": 5.3
+    },{
+    "id": 48,
+    "name": "Crispy Shredded Chicken in OK Sauce",
+    "price": 5.3
+    },{
+    "id": 49,
+    "name": "Crispy Shredded Beef in OK Sauce",
+    "price": 5.3
+    },{
+    "id": 50,
+    "name": "King Prawn with OK Sauce",
+    "price": 6
+    },{
+    "id": 51,
+    "name": "Beef with OK Sauce",
+    "price": 4.8
+    },{
+    "id": 52,
+    "name": "Crispy Chicken with OK Sauce",
+    "price": 4.8
+    },{
+    "id": 53,
+    "name": "Crispy Pork with OK Sauce",
+    "price": 4.8
+    },{
+    "id": 54,
+    "name": "Special/ Mixed Meat Curry",
+    "price": 5.5
+    },{
+    "id": 55,
+    "name": "King Prawn Curry",
+    "price": 5.5
+    },{
+    "id": 56,
+    "name": "Beef Curry",
+    "price": 4.3
+    },{
+    "id": 57,
+    "name": "Chicken Curry",
+    "price": 4.3
+    },{
+    "id": 58,
+    "name": "Roast Pork Curry",
+    "price": 4.3
+    },{
+    "id": 59,
+    "name": "Duck Curry",
+    "price": 5.5
+    },{
+    "id": 60,
+    "name": "Lamb Curry",
+    "price": 5.5
+    },{
+    "id": 61,
+    "name": "Shrimp Curry",
+    "price": 4.3
+    },{
+    "id": 62,
+    "name": "Mushroom Curry",
+    "price": 4
+    },{
+    "id": 63,
+    "name": "Vegetable Curry",
+    "price": 4
+    },{
+    "id": 64,
+    "name": "Sweet and Sour King Prawn Cantonese Style",
+    "price": 6
+    },{
+    "id": 65,
+    "name": "Sweet and Sour Chicken Cantonese Style",
+    "price": 4.8
+    },{
+    "id": 66,
+    "name": "Chicken Balls in Batter",
+    "price": 4.5
+    },{
+    "id": 67,
+    "name": "Sweet and Sour Pork Cantonese Style",
+    "price": 4.8
+    },{
+    "id": 68,
+    "name": "Pork Balls in Batter",
+    "price": 4.5
+    },{
+    "id": 69,
+    "name": "Special with Satay Sauce",
+    "price": 5.8
+    },{
+    "id": 70,
+    "name": "Mixed Meat with Satay Sauce",
+    "price": 5.5
+    },{
+    "id": 71,
+    "name": "King Prawn with Satay Sauce",
+    "price": 5.8
+    },{
+    "id": 72,
+    "name": "Chicken with Satay Sauce",
+    "price": 4.7
+    },{
+    "id": 73,
+    "name": "Beef with Satay Sauce",
+    "price": 4.7
+    },{
+    "id": 74,
+    "name": "Roast Pork with Satay Sauce",
+    "price": 4.7
+    },{
+    "id": 75,
+    "name": "Special/ Mixed Meat with Green Pepper in Black Bean Sauce",
+    "price": 5.8
+    },{
+    "id": 76,
+    "name": "King Prawn in Black Bean Sauce",
+    "price": 5.8
+    },{
+    "id": 77,
+    "name": "Chicken with Green Pepper in Black Bean Sauce",
+    "price": 4.8
+    },{
+    "id": 78,
+    "name": "Beef with Green Pepper in Black Bean Sauce",
+    "price": 4.8
+    },{
+    "id": 79,
+    "name": "Roast Pork with Green Pepper in Black Bean Sauce",
+    "price": 4.8
+    },{
+    "id": 80,
+    "name": "Special/ Mixed Meat with Mushroom",
+    "price": 5.8
+    },{
+    "id": 81,
+    "name": "King Prawn with Mushroom",
+    "price": 5.8
+    },{
+    "id": 82,
+    "name": "Chicken with Mushroom",
+    "price": 4.5
+    },{
+    "id": 83,
+    "name": "Beef with Mushroom",
+    "price": 4.5
+    },{
+    "id": 84,
+    "name": "Roast Pork with Mushroom",
+    "price": 4.5
+    },{
+    "id": 85,
+    "name": "Special/ Mixed Meat with Szechuan Sauce",
+    "price": 5.8
+    },{
+    "id": 86,
+    "name": "King Prawn with Szechuan Sauce",
+    "price": 5.8
+    },{
+    "id": 87,
+    "name": "Chicken with Szechuan Sauce",
+    "price": 4.8
+    },{
+    "id": 88,
+    "name": "Beef with Szechuan Sauce",
+    "price": 4.8
+    },{
+    "id": 89,
+    "name": "Roast Pork Szechuan Sauce",
+    "price": 4.8
+    },{
+    "id": 90,
+    "name": "Special/ Mixed Meat Chop Suey",
+    "price": 5.8
+    },{
+    "id": 91,
+    "name": "King Prawn Chop Suey",
+    "price": 5.8
+    },{
+    "id": 92,
+    "name": "Chicken Chop Suey",
+    "price": 4.8
+    },{
+    "id": 93,
+    "name": "Beef Chop Suey",
+    "price": 4.8
+    },{
+    "id": 94,
+    "name": "Roast Pork Chop Suey",
+    "price": 4.8
+    },{
+    "id": 95,
+    "name": "Special/ Mixed Meat with Cashew Nuts",
+    "price": 5.8
+    },{
+    "id": 96,
+    "name": "King Prawn with Cashew Nuts",
+    "price": 5.8
+    },{
+    "id": 97,
+    "name": "Beef with Cashew Nuts",
+    "price": 4.8
+    },{
+    "id": 98,
+    "name": "Chicken with Cashew Nuts",
+    "price": 4.8
+    },{
+    "id": 99,
+    "name": "Roast Pork with Cashew Nuts",
+    "price": 4.8
+    },{
+    "id": 100,
+    "name": "Special/ Mixed Meat Kung Po",
+    "price": 5.8
+    },{
+    "id": 101,
+    "name": "King Prawn Kung Po",
+    "price": 5.8
+    },{
+    "id": 102,
+    "name": "Chicken Kung Po",
+    "price": 4.6
+    },{
+    "id": 103,
+    "name": "Beef Kung Po",
+    "price": 4.6
+    },{
+    "id": 104,
+    "name": "Roast Pork Kung Po",
+    "price": 4.6
+    },{
+    "id": 105,
+    "name": "Special/ Mixed Meat with Bamboo Shoot and Water Chestnut",
+    "price": 5.8
+    },{
+    "id": 106,
+    "name": "King Prawn with Bamboo Shoot and Water Chestnut",
+    "price": 5.8
+    },{
+    "id": 107,
+    "name": "Chicken with Bamboo Shoot and Water Chestnut",
+    "price": 4.6
+    },{
+    "id": 108,
+    "name": "Beef with Bamboo Shoot and Water Chestnut",
+    "price": 4.6
+    },{
+    "id": 109,
+    "name": "Roast Pork with Bamboo Shoot and Water Chestnut",
+    "price": 4.6
+    },{
+    "id": 110,
+    "name": "Special/ Mixed Meat with Oyster Sauce",
+    "price": 5.8
+    },{
+    "id": 111,
+    "name": "King Prawn and Oyster Sauce",
+    "price": 5.8
+    },{
+    "id": 112,
+    "name": "Chicken with Oyster Sauce",
+    "price": 4.5
+    },{
+    "id": 113,
+    "name": "Beef with Oyster Sauce",
+    "price": 4.5
+    },{
+    "id": 114,
+    "name": "Roast Pork with Oyster Sauce",
+    "price": 4.5
+    },{
+    "id": 115,
+    "name": "Special/ Mixed Meat with Black Pepper Sauce",
+    "price": 5.8
+    },{
+    "id": 116,
+    "name": "King Prawn with Black Pepper Sauce",
+    "price": 5.8
+    },{
+    "id": 117,
+    "name": "Chicken with Black Pepper Sauce",
+    "price": 4.6
+    },{
+    "id": 118,
+    "name": "Beef with Black Pepper Sauce",
+    "price": 4.6
+    },{
+    "id": 119,
+    "name": "Roast Pork with Black Pepper Sauce",
+    "price": 4.6
+    },{
+    "id": 120,
+    "name": "Special/ Mixed Meat with Ginger and Spring Onion",
+    "price": 5.8
+    },{
+    "id": 121,
+    "name": "King Prawn with Ginger and Spring Onion",
+    "price": 5.8
+    },{
+    "id": 122,
+    "name": "Chicken with Ginger and Spring Onion",
+    "price": 4.6
+    },{
+    "id": 123,
+    "name": "Beef with Ginger and Spring Onion",
+    "price": 4.6
+    },{
+    "id": 124,
+    "name": "Roast Pork with Ginger and Spring Onion",
+    "price": 4.6
+    },{
+    "id": 125,
+    "name": "Special/ Mixed Meat with Pineapple",
+    "price": 5.8
+    },{
+    "id": 126,
+    "name": "King Prawn with Pineapple",
+    "price": 5.8
+    },{
+    "id": 127,
+    "name": "Chicken with Pineapple",
+    "price": 4.5
+    },{
+    "id": 128,
+    "name": "Beef with Pineapple",
+    "price": 4.5
+    },{
+    "id": 129,
+    "name": "Roast Pork with Pineapple",
+    "price": 4.5
+    }
+  ]
+}
