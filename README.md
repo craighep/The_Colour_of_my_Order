@@ -1,5 +1,5 @@
 # The Colour of my Order
-http://craighep.github.io/The_Colour_of_my_Order
+Release site: http://www.craighep.co.uk/comm/
 
 RGB Menu Item chooser, picks your meals based on the colour you choose!
 
