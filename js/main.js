@@ -13,7 +13,11 @@ $.ajax({
     }
 });
 
-	var cw = Raphael.colorwheel($("#size_example .colorwheel_large")[0],300, 250).color("#00F");
+	var cw;
+	if(window.innerWidth < 500)
+		cw = Raphael.colorwheel($("#size_example .colorwheel_large")[0],window.innerWidth/2, 300).color("#00F");
+	else
+		cw = Raphael.colorwheel($("#size_example .colorwheel_large")[0],300, 300).color("#00F");
 
 	cw.onchange(function(color)
     {
